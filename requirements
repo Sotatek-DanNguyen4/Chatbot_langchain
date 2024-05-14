@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+tiktoken
+sentence-transformers
+faiss-cpu
+gpt4all
+langchain-community
+langchainhub
+langchain-chroma
+pyngrok
+streamlit
+fastapi
+uvicorn
+bs4
