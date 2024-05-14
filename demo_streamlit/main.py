@@ -46,11 +46,9 @@ def preprocess_data(csv_file, n):
 def create_table_SQL():
     # Đường dẫn
     csv_file_path = 'D:/Chatbot_langchains_openAI/data/113_final_oke_edited.csv'
-
     # Kết nối đến cơ sở dữ liệu SQLite hoặc tạo một cơ sở dữ liệu mới
     conn = sqlite3.connect('database.db')
     cursor = conn.cursor()
-
     # Tạo bảng trong cơ sở dữ liệu
     cursor.execute('''CREATE TABLE IF NOT EXISTS data_items (
                         id INTEGER PRIMARY KEY,
@@ -86,8 +84,6 @@ def create_table_SQL():
                             NON_VAT_PRICE_2,VAT_PRICE_2,COMMISSION_2,THRESHOLD_2,
                             NON_VAT_PRICE_3,VAT_PRICE_3,COMMISSION_3)
                             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?, ?, ?)''', row)
-
-
     # Lưu thay đổi và đóng kết nối
     conn.commit()
     conn.close()
@@ -117,7 +113,6 @@ def create_SQL_agent():
             "input": "Lò Vi Sóng Bluestone MOB-7716 có thể hẹn giờ trong bao lâu",
             "query": "SELECT NAME, DESCRIPTION, SPECIFICATION_BACKUP\nFROM data_items \nWHERE NAME LIKE \'%MOB-7716%\' OR DESCRIPTION LIKE \'%M&EGD000224%\'\nLIMIT 1;",
         },
-
         {
             "input": "Máy NLMT Empire 180 Lít Titan M&EGD000224 có bao nhiêu ống",
             "query": "SELECT SPECIFICATION_BACKUP\nFROM data_items \nWHERE NAME LIKE \'%M&EGD000224%\' OR DESCRIPTION LIKE \'%M&EGD000224%\' \nLIMIT 1;",
