@@ -1,0 +1,30 @@
+{
+    "conversations": [
+        {
+            "id_conversation": "2121291",
+            "messages": [
+                {
+                    "HumanMessage": "Hello",
+                    "AIMessage": "Chào bạn! Bạn có câu hỏi hoặc cần hỗ trợ gì không?"
+                }
+            ]
+        },
+        {
+            "id_conversation": "1120042",
+            "messages": [
+                {
+                    "HumanMessage": "Có tất cả bao nhiêu sản phẩm bạn có",
+                    "AIMessage": "Không có bảng \"products\" trong cơ sở dữ liệu. Bạn có thể cung cấp tên bảng chính xác để tôi kiểm tra số lượng sản phẩm được không?"
+                },
+                {
+                    "HumanMessage": "bạn bán bao nhiêu sản phẩm tất cả",
+                    "AIMessage": "Xin lỗi, không có bảng \"products\" trong cơ sở dữ liệu. Tuy nhiên, có một bảng \"data_items\" chứa thông tin về các sản phẩm. Bạn muốn tôi đếm số lượng sản phẩm trong bảng \"data_items\" không?"
+                },
+                {
+                    "HumanMessage": "Có tất cả bao nhiêu sản phẩm bạn đang bán ",
+                    "AIMessage": "Xin lỗi vì sự hiểu lầm, nhưng tôi không thể cung cấp thông tin về tất cả các sản phẩm mà bạn đang bán vì không có dữ liệu cụ thể về các sản phẩm đó. Tuy nhiên, nếu bạn có bất kỳ câu hỏi cụ thể nào về sản phẩm cụ thể hoặc loại sản phẩm nào đó, tôi sẽ cố gắng hỗ trợ bạn. Hãy cho tôi biết nếu bạn cần thông tin chi tiết về một sản phẩm cụ thể nào đó."
+                }
+            ]
+        }
+    ]
+}

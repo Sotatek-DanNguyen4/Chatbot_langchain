@@ -1,0 +1,194 @@
+{
+    "conversations": [
+        {
+            "id_conversation": "1",
+            "messages": [
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "Hello"
+                },
+                {
+                    "HumanMessage": "bot",
+                    "AIMessage": "Hi, how can I help you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "How are you?"
+                },
+                {
+                    "HumanMessage": "Hello",
+                    "AIMessage": "Xin chào! Bạn cần trợ giúp với điều gì?"
+                },
+                {
+                    "HumanMessage": "Bạn có bao nhiêu loại máy giặt",
+                    "AIMessage": "Hiện có nhiều loại máy giặt khác nhau trên thị trường, bao gồm máy giặt cửa trước, máy giặt cửa trên, máy giặt lồng ngang và máy giặt lồng đứng. Mỗi loại máy giặt có ưu điểm và tính năng riêng, phù hợp với nhu cầu sử dụng của từng gia đình. Bạn cần tư vấn về loại máy giặt nào cụ thể không?"
+                },
+                {
+                    "HumanMessage": "Bạn có tất cả bao nhiêu sản phẩm máy giặt",
+                    "AIMessage": "Hiện có tổng cộng 4 sản phẩm máy giặt trong cơ sở dữ liệu.Bạn cần thêm thông tin hoặc tư vấn về sản phẩm cụ thể nào không?"
+                },
+                {
+                    "HumanMessage": "Bạn có tất cả bao nhiêu sản phẩm đèn năng lượng",
+                    "AIMessage": "Hiện tại có tổng cộng 4 sản phẩm đèn năng lượng mặt trời trong cơ sở dữ liệu. Bạn cần thông tin chi tiết về sản phẩm nào không?"
+                },
+                {
+                    "HumanMessage": "Có tất cả bao nhiêu sản phẩm",
+                    "AIMessage": "Hiện tại, không có sản phẩm nào trong cơ sở dữ liệu phù hợp với yêu cầu của bạn về đèn năng lượng. Bạn có thể cung cấp thêm thông tin cụ thể hoặc yêu cầu tư vấn về sản phẩm khác không?"
+                },
+                {
+                    "HumanMessage": "Bạn đang có bán tất cả bao nhiêu sản phẩm",
+                    "AIMessage": "Hiện tại, cửa hàng có tổng cộng 113 sản phẩm trong cơ sở dữ liệu. Có thêm thông tin hoặc yêu cầu khác bạn cần hỗ trợ không?"
+                },
+                {
+                    "HumanMessage": "có bao nhiêu sản phẩm loại đèn năng lượng mặt trời\n",
+                    "AIMessage": "Hiện tại, cửa hàng có tổng cộng 4 sản phẩm đèn năng lượng mặt trời trong cơ sở dữ liệu. Bạn cần thông tin chi tiết về sản phẩm nào không?"
+                },
+                {
+                    "HumanMessage": "có bao nhiêu sản phẩm loại đèn năng lượng mặt trời\n",
+                    "AIMessage": "Hiện tại, cửa hàng có tổng cộng 4 sản phẩm đèn năng lượng mặt trời trong cơ sở dữ liệu. Bạn cần thông tin chi tiết về sản phẩm nào không?"
+                },
+                {
+                    "HumanMessage": "Có bao nhiêu sản phẩm loại đèn năng lượng mặt trời?\n",
+                    "AIMessage": "Dạ, sản phẩm \"Đèn năng lượng mặt trời\" là một trong những sản phẩm chính của cửa hàng. Nếu bạn cần thông tin chi tiết hoặc có bất kỳ câu hỏi nào về sản phẩm này, vui lòng cho biết để được hỗ trợ thêm."
+                },
+                {
+                    "HumanMessage": "Hello",
+                    "AIMessage": "Xin chào! Bạn cần trợ giúp với điều gì?"
+                },
+                {
+                    "HumanMessage": "Có tất cả bao nhiêu sản phẩm",
+                    "AIMessage": "Hiện tại, cửa hàng có tổng cộng 113 sản phẩm trong cơ sở dữ liệu. Có thêm thông tin hoặc yêu cầu khác bạn cần hỗ trợ không?"
+                },
+                {
+                    "HumanMessage": "tôi muốn mua 2 chiếc đèn năng lượng và 2 chiếc máy giặt bán chạy nhất",
+                    "AIMessage": "Dưới đây là thông tin về 2 sản phẩm đèn năng lượng mặt trời và 2 sản phẩm máy giặt bán chạy nhất:\n\n### Đèn Năng Lượng Mặt Trời:\n1. **Đèn LED Năng Lượng Mặt Trời SUNTEK RP-100**\n   - Công suất: 60W\n   - Giá: 698,200 VND\n   - [Hình ảnh sản phẩm](/opt/Upload/KCS//input/mobile_images/2024/2/18/708/Bộ ĐÈN LED NĂNG LƯỢNG MẶT TRỜI SUNTEK.png)\n\n2. **Đèn Pha LED Năng Lượng Mặt Trời SUNTEK RP-100**\n   - Công suất: 100W\n   - Giá: 756,200 VND\n   - [Hình ảnh sản phẩm](/opt/Upload/KCS//input/mobile_images/2024/2/20/491/rp100-rmk.png)\n\n### Máy Giặt:\n1. **Máy Giặt Aqua Cửa Trên - 8Kg AQW-KS80GT.S**\n   - Lượng giặt: 8 Kg\n   - Giá: 3,875,900 VND\n   - [Hình ảnh sản phẩm](/opt/Upload/KCS//input/mobile_images/2024/2/18/140/Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S.png)\n\n2. **Máy Giặt Electrolux Lồng Ngang 10kg Màu Trắng EWF1024D3WB**\n   - Lượng giặt: 10 Kg\n   - Giá: 9,757,400 VND\n   - [Hình ảnh sản phẩm](/opt/Upload/KCS//input/mobile_images/2024/2/18/912/Máy giặt Electrolux lồng ngang 10kg màu trắng EWF1024D3WB.png)\n\nBạn có thể xem chi tiết và lựa chọn sản phẩm phù hợp. Nếu cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại để lại câu hỏi."
+                },
+                {
+                    "HumanMessage": "nhà tôi nóng quá",
+                    "AIMessage": "Để giúp giảm nhiệt độ trong nhà, bạn có thể thực hiện một số biện pháp như sau:\n1. Sử dụng máy điều hòa không khí hoặc quạt để làm mát không gian.\n2. Mở cửa sổ và cửa để tạo luồng không khí tự nhiên.\n3. Sử dụng rèm cửa hoặc màn cửa để chắn ánh nắng mặt trời.\n4. Sử dụng đèn LED thay thế cho đèn truyền thống để giảm nhiệt độ phòng.\n5. Sử dụng đèn năng lượng mặt trời để chiếu sáng ban đêm mà không tăng thêm nhiệt độ trong nhà.\n\nNgoài ra, việc cải thiện cách cách cách nhiệt và cách cách âm của ngôi nhà cũng có thể giúp giảm nhiệt độ bên trong. Nếu vấn đề vẫn tiếp tục, bạn có thể xem xét việc lắp đặt hệ thống điều hòa không khí hoặc tìm hiểu thêm về các giải pháp làm mát khác."
+                },
+                {
+                    "HumanMessage": "có bao nhiêu đèn năng lượng mặt trời",
+                    "AIMessage": "Hiện tại, cửa hàng có tổng cộng 40 sản phẩm đèn năng lượng mặt trời trong cơ sở dữ liệu. Nếu bạn cần thông tin chi tiết về sản phẩm nào, vui lòng cho biết để được hỗ trợ."
+                },
+                {
+                    "HumanMessage": "so sánh thông số kỹ thuật của máy giặt và quạt diện",
+                    "AIMessage": "Dưới đây là thông số kỹ thuật của 2 sản phẩm máy giặt và quạt điện:\n\n### Máy Giặt Electrolux UltimateCare 500 Inverter EWF1024P5SB:\n- Loại máy giặt: Cửa trước\n- Lồng giặt: Lồng ngang\n- Khối lượng giặt: 10 Kg\n- Số người sử dụng: Từ 5 - 7 người\n- Kiểu động cơ: Truyền động gián tiếp (dây Curoa)\n- Tốc độ quay tối đa: 1200 vòng/phút\n- Chất liệu lồng giặt: Thép không gỉ\n- Chất liệu vỏ máy: Kim loại sơn tĩnh điện\n- Chất liệu nắp máy: Nhựa + Kính\n- Giá: 11,849,800 VND\n\n### Máy Giặt Aqua Cửa Trên - 8Kg AQW-KS80GT.S:\n- Loại máy giặt: Cửa trên\n- Lồng giặt: Lồng đứng\n- Khối lượng giặt: 8 Kg\n- Số người sử dụng: Từ 5 - 7 người\n- Kiểu động cơ: Truyền động gián tiếp (dây Curoa)\n- Tốc độ quay tối đa: 775 vòng/phút\n- Chất liệu lồng giặt: Thép không gỉ\n- Chất liệu vỏ máy: Kim loại sơn tĩnh điện\n- Chất liệu nắp máy: Nhựa ABS + Kính\n- Giá: 3,875,900 VND\n\nĐó là một số thông số kỹ thuật cơ bản của các sản phẩm máy giặt. Nếu bạn cần thêm thông tin hoặc có yêu cầu khác, hãy cho biết để được hỗ trợ."
+                },
+                {
+                    "HumanMessage": "tôi muốn ăn cơm",
+                    "AIMessage": "Để nấu cơm, bạn có thể sử dụng nồi cơm điện hoặc nồi cơm điện thông thường. Bạn cũng có thể sử dụng nồi cơm điện thông minh để nấu cơm một cách dễ dàng và tiện lợi. Nếu bạn cần hướng dẫn cụ thể về cách nấu cơm hoặc muốn biết thêm về các sản phẩm nồi cơm điện, hãy cho biết để được hỗ trợ. Chúc bạn có bữa cơm ngon miệng!"
+                },
+                {
+                    "HumanMessage": "Bạn có bán bao nhiêu sản phẩm",
+                    "AIMessage": "Hiện tại, cửa hàng có tổng cộng 204 sản phẩm trong cơ sở dữ liệu. Có thêm thông tin hoặc yêu cầu khác bạn cần hỗ trợ không?"
+                },
+                {
+                    "HumanMessage": "giá gốc của Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng là bao nhiêu vậy",
+                    "AIMessage": "Giá gốc của sản phẩm \"Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng\" là 1,254,000 VND. Nếu bạn cần thêm thông tin hoặc hỗ trợ về sản phẩm này, đừng ngần ngại để lại câu hỏi."
+                },
+                {
+                    "HumanMessage": "vậy nó đã bán được bao nhiêu sản phẩm rồi",
+                    "AIMessage": "Sản phẩm \"Công tắc cảm ứng 4 nút chữ nhật - 2 dây màu trắng\" đã bán được tổng cộng 8 sản phẩm. Nếu bạn cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại để lại câu hỏi."
+                },
+                {
+                    "HumanMessage": "tôi muốn mua chiếc máy giặt nào đó phù hợp",
+                    "AIMessage": "Xin lỗi, tôi không có thông tin về chiếc máy giặt phù hợp với nhu cầu của bạn trong cơ sở dữ liệu của mình. Tuy nhiên, bạn có thể cung cấp thêm thông tin về yêu cầu cụ thể của bạn như khối lượng giặt, tính năng cần thiết, hoặc ngân sách dự kiến để tôi có thể gợi ý cho bạn một cách tốt nhất."
+                },
+                {
+                    "HumanMessage": "à tôi chỉ có 10 triệu",
+                    "AIMessage": "Dựa vào ngân sách của bạn, một lựa chọn tốt có thể là \"Máy giặt Electrolux UltimateCare 300 Inverter 10 kg EWF1024M3SB\" với giá gốc là 12,749,000 VND. Tuy nhiên, bạn cũng có thể xem xét sản phẩm \"Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\" với giá là 4,726,370 VND. Nếu bạn cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại để lại câu hỏi."
+                },
+                {
+                    "HumanMessage": "à tôi chỉ có 10 triệu",
+                    "AIMessage": "Dựa vào ngân sách của bạn, một lựa chọn phù hợp là \"Máy giặt Aqua cửa trên - 8Kg AQW-KS80GT.S\" với giá là 4,726,370 VND. Đây là một lựa chọn tiết kiệm và phù hợp với ngân sách 10 triệu của bạn. Nếu bạn cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại để lại câu hỏi."
+                },
+                {
+                    "HumanMessage": "à tôi chỉ có 10 triệu",
+                    "AIMessage": "Dựa vào ngân sách của bạn, một lựa chọn phù hợp có thể là \"Máy giặt Aqua cửa trên - 10Kg AQW-U100FT.BK\" với giá là 6,074,970 VND. Đây là một lựa chọn có khả năng đáp ứng nhu cầu giặt của bạn với khối lượng lớn và nhiều tính năng tiện ích. Nếu bạn cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại để lại câu hỏi."
+                },
+                {
+                    "HumanMessage": "tôi muốn mua điều hòa, bạn có bán k",
+                    "AIMessage": "Xin lỗi, hiện tại tôi không thể bán sản phẩm trực tiếp. Tuy nhiên, nếu bạn cần thông tin về các sản phẩm điều hòa hoặc có bất kỳ câu hỏi nào liên quan, hãy đưa ra chi tiết cụ thể để tôi có thể hỗ trợ bạn tốt nhất có thể."
+                },
+                {
+                    "HumanMessage": "tôi cần tư vấn điều hòa để mua mà",
+                    "AIMessage": "Dựa vào ngân sách của bạn, một lựa chọn phù hợp có thể là \"Điều hòa MDV 1 chiều 12000 BTU - Model 2023\" với giá là 7,246,030 VND. Đây là một lựa chọn tốt với công suất phù hợp và tính năng Inverter tiết kiệm điện. Nếu bạn cần thêm thông tin hoặc tư vấn chi tiết về sản phẩm này hoặc các lựa chọn khác, hãy cho biết để tôi có thể hỗ trợ bạn tốt hơn."
+                },
+                {
+                    "HumanMessage": "tôi cần tư vấn điều hòa để mua mà",
+                    "AIMessage": "Dựa vào ngân sách của bạn, một lựa chọn phù hợp có thể là \"Điều hòa Carrier 2 chiều Inverter - Công suất: 12.000 BTU/h (1.5 HP) - Model 2023\" với giá là 14,917,980 VND. Đây là một lựa chọn có công suất phù hợp và nhiều tính năng tiện ích như khử mùi, chế độ gió Coanda, hẹn giờ và điều khiển từ xa. Nếu bạn cần thêm thông tin hoặc tư vấn chi tiết về sản phẩm này hoặc các lựa chọn khác, hãy cho biết để tôi có thể hỗ trợ bạn tốt hơn."
+                },
+                {
+                    "HumanMessage": "Hello\n",
+                    "AIMessage": "Xin chào! Bạn cần hỗ trợ về điều hòa hoặc bất kỳ sản phẩm nào khác không? Hãy cho tôi biết nếu bạn cần thông tin hoặc tư vấn về bất kỳ vấn đề nào. Chúc bạn một ngày tốt lành!"
+                },
+                {
+                    "HumanMessage": "Liệt kê cho tôi 5 sản phẩm điều hòa",
+                    "AIMessage": "Dưới đây là danh sách 5 sản phẩm điều hòa:\n\n1. **Điều hòa Daikin 1 chiều Inverter - FTKC25TVMV/RKC25TVMV - 9000 BTU - Model 2023**\n   - Giá: 9,812,000 VND\n   - Công suất: 9000 BTU\n   - Tính năng: Inverter, khử mùi, chế độ hẹn giờ\n\n2. **Điều hòa Panasonic 2 chiều Inverter - CS/CU-UC18VKH-8 - 18000 BTU - Model 2023**\n   - Giá: 16,245,000 VND\n   - Công suất: 18000 BTU\n   - Tính năng: Inverter, khử mùi, chế độ tiết kiệm năng lượng\n\n3. **Điều hòa Mitsubishi Electric 1 chiều Inverter - MS-HK13VA - 12000 BTU - Model 2023**\n   - Giá: 11,732,000 VND\n   - Công suất: 12000 BTU\n   - Tính năng: Inverter, chế độ làm lạnh nhanh\n\n4. **Điều hòa LG 2 chiều Inverter - S186EC - 18000 BTU - Model 2023**\n   - Giá: 15,690,000 VND\n   - Công suất: 18000 BTU\n   - Tính năng: Inverter, chế độ làm lạnh nhanh, chế độ hẹn giờ\n\n5. **Điều hòa Samsung 1 chiều Inverter - AR09TYHYEWKNSV - 9000 BTU - Model 2023**\n   - Giá: 10,375,000 VND\n   - Công suất: 9000 BTU\n   - Tính năng: Inverter, chế độ làm lạnh nhanh, chế độ gió tự nhiên\n\nĐó là một số sản phẩm điều hòa phổ biến có sẵn trong cơ sở dữ liệu. Nếu bạn quan tâm đến bất kỳ sản phẩm cụ thể nào hoặc cần thêm thông tin, hãy cho tôi biết để tôi có thể hỗ trợ bạn."
+                },
+                {
+                    "HumanMessage": "Vậy thông số kỹ thuật sản phẩm 1 là gì?",
+                    "AIMessage": "Thông số kỹ thuật của sản phẩm Điều hòa Daikin 1 chiều Inverter - FTKC25TVMV/RKC25TVMV - 9000 BTU - Model 2023 như sau:\n- Tên sản phẩm: Điều hòa Daikin 1 chiều Inverter - FTKC25TVMV/RKC25TVMV\n- Thông số kỹ thuật: \n  - Công suất: 9000 BTU\n  - Tính năng: Inverter, khử mùi, chế độ hẹn giờ\nĐể biết thêm thông tin chi tiết hoặc tư vấn về sản phẩm này, hãy cho biết để tôi có thể hỗ trợ bạn."
+                }
+            ]
+        },
+        {
+            "id_conversation": "2",
+            "messages": [
+                {
+                    "HumanMessage": "user",
+                    "AIMessage": "What is the weather today?"
+                },
+                {
+                    "HumanMessage": "bot",
+                    "AIMessage": "It's sunny and warm."
+                }
+            ]
+        }
+    ]
+}

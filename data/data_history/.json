@@ -1,0 +1,33 @@
+{
+    "conversations": [
+        {
+            "id_conversation": "",
+            "messages": [
+                {
+                    "HumanMessage": "",
+                    "AIMessage": "Xin lỗi, vui lòng cung cấp thêm thông tin hoặc câu hỏi cụ thể để tôi có thể hỗ trợ bạn được không?"
+                },
+                {
+                    "HumanMessage": "",
+                    "AIMessage": "Xin vui lòng cung cấp câu hỏi cụ thể để tôi có thể hỗ trợ bạn."
+                },
+                {
+                    "HumanMessage": "",
+                    "AIMessage": "Dạ, nếu bạn có bất kỳ câu hỏi nào về sản phẩm hoặc thông tin mà bạn quan tâm, hãy đưa ra để tôi có thể hỗ trợ bạn nhé.Bạn có thể hỏi về các chức năng, tính năng hoặc thông số kỹ thuật của sản phẩm \"Nồi chiên không dầu KALITE KL-1200 12 lít\" hoặc sản phẩm ghế massage mà bạn quan tâm."
+                },
+                {
+                    "HumanMessage": "",
+                    "AIMessage": "Xin lỗi vì sự bất tiện này. Nếu bạn có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ với thông tin sản phẩm nào khác, đừng ngần ngại để lại cho tôi biết. Tôi sẽ cố gắng giúp đỡ bạn trong khả năng của mình."
+                },
+                {
+                    "HumanMessage": "",
+                    "AIMessage": "Nếu bạn có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ với thông tin sản phẩm nào khác, đừng ngần ngại để lại cho tôi biết. Tôi sẽ cố gắng giúp đỡ bạn trong khả năng của mình. Chúc bạn một ngày tốt lành!"
+                },
+                {
+                    "HumanMessage": "",
+                    "AIMessage": "Xin lỗi vì không thể cung cấp thông tin cụ thể về sản phẩm bạn quan tâm. Nếu bạn có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ với thông tin sản phẩm khác, hãy đưa ra để tôi có thể hỗ trợ bạn nhé. Xin cảm ơn và chúc bạn một ngày tốt lành!"
+                }
+            ]
+        }
+    ]
+}
